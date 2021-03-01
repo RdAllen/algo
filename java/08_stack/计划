@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-01T12:13:25.393Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="ATBBonQzP_65QKsyVbSq" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-01T12:13:38.290Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="67thC56bZm_K15LHNuam" version="14.4.2" type="github">
   <diagram id="W3VcwITOkXtvRdbxMLx8" name="Page-1">
     <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="7FampaUGbzCJmbu_-MVO-16" value="1.细分完成 开发中" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="236" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7FampaUGbzCJmbu_-MVO-17" value="1.发布提测，活动非P0级需求上线" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
